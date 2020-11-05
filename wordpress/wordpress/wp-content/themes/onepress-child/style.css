@@ -1,0 +1,35 @@
+/*
+Theme Name: OnePress_Child
+Template: onepress
+*/
+
+.wall-card {display: inline-block; 
+	width: 214px; 
+	} 
+
+img { display: inline-block; width: 214;
+	border-radius: 20px; 
+	}
+/*	
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #eee;
+}
+
+.container:hover .overlay {
+  opacity: 0.7;
+  border-radius: 20px;
+}
+*/
+.wall-card-details{
+		padding: 5px;
+		text-align: center;
+	}
